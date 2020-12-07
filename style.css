@@ -31,7 +31,10 @@ p.centrado {
     text-align: center;
 }
 
-
+span {
+    font-weight: bold;
+    font-style: italic;
+}
 
 
 
