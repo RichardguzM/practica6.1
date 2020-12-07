@@ -1,0 +1,37 @@
+body {
+    background-color: #cdcdcd;
+}
+
+h1 {
+    color: #161669;
+    text-align: right;
+}
+
+h2 {
+    background-color: #5d6336;
+    color: white;
+
+}
+
+img.santamaria {
+    float: left;
+    width="257" height="321"
+}
+
+img.santacroce {
+    display: block;
+}
+
+img.santanovella {
+    float: right;
+    width="326" height="320"
+}
+
+p.centrado {
+    text-align: center;
+}
+
+
+
+
+
