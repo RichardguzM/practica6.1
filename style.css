@@ -5,11 +5,15 @@ body {
 h1 {
     color: #161669;
     text-align: right;
+    font-weight: 1000 ;
+    letter-spacing: 50px;
+
 }
 
 h2 {
     background-color: #5d6336;
     color: white;
+    clear: both;
 
 }
 
@@ -18,17 +22,10 @@ img.santamaria {
     width="257" height="321"
 }
 
-img.santacroce {
-    display: block;
-}
 
 img.santanovella {
     float: right;
     width="326" height="320"
-}
-
-p.centrado {
-    text-align: center;
 }
 
 span {
@@ -36,5 +33,15 @@ span {
     font-style: italic;
 }
 
+p.centrado {
+    text-align: center;
+}
 
+br {
+    clear: both;
+}
 
+P {
+    font-family: sans-serif;
+    text-align: justify;
+}
